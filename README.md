@@ -1,5 +1,5 @@
 
-> Open deze pagina op [https://rmdobservations.github.io/microbit_rmdobservations/](https://rmdobservations.github.io/microbit_rmdobservations/)
+> Open deze pagina op [https://rmdobservations.github.io/microbit/](https://rmdobservations.github.io/microbit_rmdobservations/)
 
 ## Gebruiken als extensie
 
@@ -8,22 +8,22 @@ Deze repository kan worden toegevoegd als **extensie** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klik op **Nieuw project**
 * klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/rmdobservations/microbit_rmdobservations** en importeren
+* zoeken naar **https://github.com/rmdobservations/microbit** en importeren
 
-## Dit project bewerken ![Badge buildstatus](https://github.com/rmdobservations/microbit_rmdobservations/workflows/MakeCode/badge.svg)
+## Dit project bewerken ![Badge buildstatus](https://github.com/rmdobservations/microbit/workflows/MakeCode/badge.svg)
 
 Om deze repository te bewerken in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klik op **Importeren** en klik vervolgens op **Importeer URL**
-* plak **https://github.com/rmdobservations/microbit_rmdobservations** en klik op importeren
+* plak **https://github.com/rmdobservations/microbit** en klik op importeren
 
 ## Voorbeeld van blokken
 
 Deze afbeelding toont de blokcode van de laatste bevestiging in de master.
 Deze afbeelding kan enkele minuten duren om te vernieuwen.
 
-![Een gerenderde weergave van de blokken](https://github.com/rmdobservations/microbit_rmdobservations/raw/master/.github/makecode/blocks.png)
+![Een gerenderde weergave van de blokken](https://github.com/rmdobservations/microbit/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (gebruikt voor zoeken, rendering)
 
